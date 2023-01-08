@@ -44,33 +44,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/ketutaguss_'
-global.sgh = 'https://github.com/VamsesOfficial'
-global.sgc = 'https://chat.whatsapp.com/BCwzxnLQZl6FwyXumQ1wVe'
+global.sig = 'https://www.instagram.com/nvkenn_'
+global.sgh = 'https://github.com/nvhitori'
+global.sgc = 'https://chat.whatsapp.com/FY1k7MJwbEO8jnU0mrCclk'
 global.sdc = " "
 global.snh = '-'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085738639969'
-global.povo = '085738639969'
-global.pgopay = '085738639969'
-global.ppulsa = '085738639969'
+global.pdana = '081323870860'
+global.povo = '-'
+global.pgopay = '081323870860'
+global.ppulsa = '081323870860'
 global.ppulsa2 = '-'
 global.psaweria = '_'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '918093484205'
-global.nomorown = '6289508503105'
-global.namebot = 'Chonix'
-global.nameown = 'Vamses'
+global.nomorbot = '14049051816'
+global.nomorown = '6283193200795'
+global.namebot = 'Hitori Bot'
+global.nameown = 'Vall Ganteng :v'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6289508503105'],
-  ['6285738639969'],
+  ['6283193200795'],
+  ['6283193200795'],
   ['19152666222'],
-  ['14158555555', 'Vamses', true]
+  ['14158555555', 'nvkenn', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -114,12 +114,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 CHONIX 」' //Main Watermark
-global.wm2 = '𝖈𝖍𝖔𝖓𝖎𝖝'
-global.wm3 = '𝙑𝙖𝙢𝙨𝙚𝙨𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡'
+global.wm = '                「 NVKENN 」' //Main Watermark
+global.wm2 = '𝕳𝖎𝖙𝖔𝖗𝖎'
+global.wm3 = '𝙃𝙞𝙩𝙤𝙧𝙞𝘽𝙤𝙘𝙘𝙝𝙞'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '⛧┊ CHONIX ʙᴏᴛ'
+global.titlebot = '⛧┊ Hitori Bot'
 global.author = global.wm
 
 
@@ -172,8 +172,8 @@ global.htjava = '𔔮'   //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Chonix BOT'
-global.stickauth = `VamsesOfficial`
+global.stickpack = 'Hitori Bot'
+global.stickauth = `Nvkenn_`
 
 global.multiplier = 38 // The higher, The harder levelup
 
